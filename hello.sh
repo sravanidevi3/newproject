@@ -1,4 +1,4 @@
-#!/bin/bash
-echo "Hello everyone"
-echo "You have done a great job"
-echo "Congratulations!"
+ #!/bin/bash
+ "Hello everyone"
+ "You have done a great job"
+ "Congratulations!"
